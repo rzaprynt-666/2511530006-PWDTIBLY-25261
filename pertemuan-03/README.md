@@ -8,4 +8,5 @@ Hari ini, Rabu 23 Desember 2025, saya belajar:
 <li>menggunakan file emmet.html pertemuan-03</li>
 <li>membuat struktur form untuk section contact</li>
 <li>membuat styling untukb selector ID #about</li>
+<li>membuat styling untukb selector ID #about elemen h2</li>
 </ol>
